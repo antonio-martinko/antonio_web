@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/antoniomartinkok
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antonio-martinko.netlify.app
+  * I am antoniomartinkok (https://keybase.io/antoniomartinkok) on keybase.
+  * I have a public key with fingerprint 06DD 6818 1BF3 CCD9 9461  65B7 1DDE B71C EAD7 3EF6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d2e9126fa86608d13b00554d045b07bdda9b7d74becbf1f533b27d97e2f9ae3b0a",
+      "fingerprint": "06dd68181bf3ccd9946165b71ddeb71cead73ef6",
+      "host": "keybase.io",
+      "key_id": "1ddeb71cead73ef6",
+      "kid": "0101d2e9126fa86608d13b00554d045b07bdda9b7d74becbf1f533b27d97e2f9ae3b0a",
+      "uid": "b09b33b269e7aaac9ca30e0f382a0a19",
+      "username": "antoniomartinkok"
+    },
+    "service": {
+      "hostname": "antonio-martinko.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1658862220,
+  "expire_in": 157680000,
+  "prev": "42a8e2068f615bf0c2b02673d24548d5068091bfbe10b262b518593e9b361557",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIxAnicrZJbSBVBGMePVpZ2QUnDbiRDBIHJ7OzZ2wmz6CJEt4ceKovTzM6srUd3
+tz17jkclUIKiKKKsyMpICXsoLbMLaXgyejAECSXMCOoIBT10IwmRiGalHoIem4cd
+dr/f//998995OndaICvt9rL0++E7TflpA323YgHyNnSiDhCb1oBQHYiwqY1VUhb1
+whGTghCAAhQoYpqAZAOrsgxVKogEQkkKUhiUCFQIpVgjClWChOnEEAxJFAlSqKYw
+ZGiYcRqDQmCYVjlzHde0PN9WplRWBVUghqjrVNOCsiBLRBEoZfypM0wVkRkyFx6w
+o76CD0dwlBWZNv/GX8JT4/2D/89zx6bsCNSIX5Y1pmCMdU3HImTQEFWEIRY0H4wy
+18JVjNPY8mzLtKuw65lWxI6AQ4WAV+OmzvyA/RP9Ta76gxZZzKs0jZoi7Djc03Ft
+z9btSk4e8DwnGvKdvBrHl1YzEv5tGiamRXm+XBFnbtS0LRASOKl7pt+FJ6uqMkII
+FgKWcEyXhU2fkBRZhXz5fVicWwYRVhmCsmrIgkQMqCMCkayIFAWloEolXoEa/2WE
+CZBngYgkqJImMp4NF0gK8I950LJBCPExcTm3jJrlFvZiLgOHnjzeOz2QlhXImJHu
+37tAVmb2n9tYu2ZWoLs+Obl0+5le+3Mn+Dl8eGL1pQb3hrA8VnDx8/nZ7+Ytvf3p
+WXPXms79x/POlSQvf5ufDvsn5jxJLVyophCr7WXRu4mRC3PAsZLiDtTXv+eb9+C7
+uA00Lajor341WXCkO0dPjbU8EnvKI1/6drVlt3QP9ySuwpyhtRkbm65t7mi/pyeW
+fJ1dTHpvrtj9OulUZKZyP0xnGy4NnB990ZW5BdYWNi4L7xhZPghTW49qx9qv9O82
++2YucsYX79OUhuaxxo8FpWsfHnkZX3xuuLE+bV3e5MqK7ObnyfjO0kTbpln5Oa2r
+3yRbX54abRl/X7Le/VGWO77h+ll1f+dg7HTZs5NDvwDkK0ud
+=BUVR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antoniomartinkok
+
+==================================================================
