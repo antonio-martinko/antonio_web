@@ -14,4 +14,4 @@ Specifically, I will mention:
 
 Thank you for taking the time to read this file and enjoy the ride!🚴
 
-<a href='https://https://app.netlify.com/sites/antonio-martinko/deploys'><img src='https://api.netlify.com/api/v1/badges/4488aa89-9597-44c5-b584-b6b8cacc3c11/deploy-status' align="right" height="20" alt='Netlify Status'/></a>
+<a href='https://https://app.netlify.com/sites/antonio-martinko/deploys'><img src='https://api.netlify.com/api/v1/badges/e3515ede-d173-4048-aa8d-4d6814bb15d1/deploy-status' align="right" height="20" alt='Netlify Status'/></a>
