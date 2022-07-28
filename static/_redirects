@@ -5,5 +5,5 @@
 https://antonio-martinko.netlify.app*               https://antonio-martinko.netlify.app/:splat 301!
 http://antonio-martinko.netlify.app/*              http://antonio-martinko.netlify.app/:splat 301!
 https://antonio-martinko.netlify.app/about/*                      https://antonio-martinko.netlify.app/talk/:splat 301!
-https://antonio-martinko.netlify.app/blog/*                      https://antonio-martinko.netlify.app/blog/:splat 301!
-https://antonio-martinko.netlify.app/publication/*                      https://antonio-martinko.netlify.app/talk/:splat 301!
+https://antonio-martinko.netlify.app/post/*                      https://antonio-martinko.netlify.app/blog/:splat 301!
+https://antonio-martinko.netlify.app/publications/*                      https://antonio-martinko.netlify.app/publication/:splat 301!
