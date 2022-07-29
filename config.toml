@@ -105,13 +105,18 @@ relativeURLs = true
       icon_pack = "fab"
       url       = "https://github.com/antonio-martinko"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/antonio.martinko/"
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Antonio-Martinko"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/antonio.martinko/"
+  [[params.social]]
+      icon      = "facebook-square" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.facebook.com/antonio.martinko/"
+  
  # [[params.social]]
  #     icon      = "twitter" # icon name without the 'fa-'
  #     icon_pack = "fab"
