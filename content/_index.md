@@ -1,7 +1,7 @@
 ---
 title: "Antonio Martinko"
 subtitle: "Assistant and Doctoral Candidate at the Faculty of Kinesiology, University of Zagreb"
-description: "I am a scientific researcher, occasional educator, R enthusiast and an all-around sportsperson. My research is focused on measuring and surveilling physical activity and childhood obesity, and on the other side I enjoy being sports, food, and coffee."
+description: "I am a scientific researcher, occasional educator, R enthusiast and an all-around sportsperson. My research is focused on measuring and surveilling physical activity and childhood obesity, and on the other side I enjoy sports, food, and coffee."
 sharing_image: "/img/avatar.png"
 images:
   - img/avatar.png
